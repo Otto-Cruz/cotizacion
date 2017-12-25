@@ -1,0 +1,1 @@
+[01-Oct-2017 15:52:52 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ocruzq/public_html/tmmetalcorp.com/apps/cotizacion/pdf/documentos/factura_pdf.php on line 19
